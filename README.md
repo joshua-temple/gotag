@@ -1,6 +1,5 @@
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/joshua-temple/gotag)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joshua-temple/gotag/test.yml?label=tests)
-![License](https://img.shields.io/github/license/joshua-temple/gotag)
 ![GitHub issues](https://img.shields.io/github/issues/joshua-temple/gotag)
 ![GitHub stars](https://img.shields.io/github/stars/joshua-temple/gotag?style=social)
 
@@ -123,3 +122,24 @@ go test ./...
 ## License
 
 This project is licensed under the MIT License.
+
+## Donations
+
+![Static Badge](https://img.shields.io/badge/XRP_(2174028412)-rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg-blue?style=for-the-badge&logo=XRP&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Hedera_(3927122871)-0.0.1133968-blue?style=for-the-badge&logo=Hedera&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Bitcoin-bc1q7f49uuzrq2hwyclct78whaaekwpcd6r4p69mj9-blue?style=for-the-badge&logo=Bitcoin&logoColor=yellow)
+
+![Static Badge](https://img.shields.io/badge/Polygon-0x242F47E66d725fDd5116c87a586066c5D0Cd1d3C-blue?style=for-the-badge&logo=Polygon&logoColor=pink)
+
+![Static Badge](https://img.shields.io/badge/SUI-0x4e637f0dca15d71f3ed967ffd188e20ce9fe49f372396f251c85a1e0541d7de4-blue?style=for-the-badge&logo=Sui&logoColor=blue)
+
+![Static Badge](https://img.shields.io/badge/Base-0x242F47E66d725fDd5116c87a586066c5D0Cd1d3C-blue?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Ethereum-0x242F47E66d725fDd5116c87a586066c5D0Cd1d3C-blue?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Solana-FuTked8fnRAiFsYNjQPsnuPQBcdQd2QZ2K822LvjYxvu-blue?style=for-the-badge&logo=Solana&logoColor=teal)
+
+
+
