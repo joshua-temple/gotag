@@ -68,9 +68,9 @@ go install github.com/joshua-temple/gotag/cmd/gotag@latest
   gotag --target pkg/here/ --recursive -a db
   ```
 
-- **Multi-tag update**
+- **Multi-tag update:**
   ```bash
-    gotag --target pkg/here/struct.go@MyStruct -a json,xml -c kebab
+  gotag --target pkg/here/struct.go@MyStruct -a json,xml -c kebab
   ```
 
 ### Interactive Mode
