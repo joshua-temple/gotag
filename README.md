@@ -1,3 +1,10 @@
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/joshua-temple/gotag)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joshua-temple/gotag/test.yml?label=tests)
+![License](https://img.shields.io/github/license/joshua-temple/gotag)
+![GitHub issues](https://img.shields.io/github/issues/joshua-temple/gotag)
+![GitHub stars](https://img.shields.io/github/stars/joshua-temple/gotag?style=social)
+
+
 # gotag
 
 gotag is a CLI tool written in Go that allows you to manipulate struct tags in your Go source files. It supports adding, deleting, or overwriting struct tags on specific structs, entire files, or directories. This tool ensures that all tags are uniformly ordered across fields and supports interactive mode with confirmation prompts (which can be bypassed using the force flag).
@@ -111,7 +118,7 @@ go test ./...
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request.
+[Contributions](./CONTRIBUTING.md) are welcome! Please open an issue or submit a pull request.
 
 ## License
 
